@@ -51,7 +51,7 @@ public class suggestedExpenses {
     }
 
     public void setMaritalStatus(int maritalStatus) {
-        this.age = maritalStatus;
+        this.maritalStatus = maritalStatus;
     }
     
     //get and set method for numberOfChild
